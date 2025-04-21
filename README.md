@@ -10,7 +10,6 @@
 
 ## Demos
 
-
 ```mermaid
 graph LR
   0((0)) -- 4 --- 1((1))
